@@ -1,0 +1,11 @@
+.DS_Store
+*.tmp
+*.log
+
+# Ignore heavy raw media files by default while keeping structure
+staging/raw/*.mp4
+staging/raw/*.mov
+staging/raw/*.mkv
+staging/raw/*.wav
+staging/raw/*.avi
+!staging/raw/.gitkeep

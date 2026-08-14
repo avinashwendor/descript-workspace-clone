@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "descript": {
+      "serverUrl": "https://api.descript.com/v2/mcp"
+    }
+  }
+}
